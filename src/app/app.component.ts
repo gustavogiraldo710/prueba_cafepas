@@ -23,10 +23,6 @@ export class AppComponent {
     this.route.navigate(['alimentos']);
   }
 
-  Arroz(){
-    this.route.navigate(['arroz']);
-  }
-
   Aseo(){
     this.route.navigate(['aseo']);
   }
