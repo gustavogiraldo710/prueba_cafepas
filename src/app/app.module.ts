@@ -10,6 +10,7 @@ import { AseoComponent } from './Components/aseo/aseo.component';
 import { HeaderComponent } from './Components/header/header.component';
 import { ArrozComponent } from './Components/arroz/arroz.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
